@@ -1,2 +1,3 @@
-# core-microservice-dnrt
-Automated issue comment bot repository
+# Core Microservice Dnrt
+
+Automated issue comment bot repository.
